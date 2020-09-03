@@ -1,5 +1,5 @@
 # Nested patterns 🐧
-## Homewrok nested patterns to curse FullStack Java
+## Homework nested patterns to curse FullStack Java
 
 ### The first challenge is make a box in the console with a input number 🐵
 For example, if the input is 2, 3, 5 respectively, then in the console will display: 
